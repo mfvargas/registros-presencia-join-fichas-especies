@@ -3,7 +3,7 @@ Este repositorio contiene un libro de notas de [Jupyter](https://jupyter.org/) p
 
 El libro de notas utliza el lenguaje de programación [Python](https://www.python.org/) y la biblioteca [Pandas](https://pandas.pydata.org/), los cuales se manejan en un ambiente de [Conda](https://conda.io/).
 
-## Creación del ambiente Conda
+## Creación y activación de un ambiente Conda
 ```
 $ conda create -n presencia-join-fichas python=3 jupyter
 $ conda activate presencia-join-fichas
