@@ -5,7 +5,7 @@ El libro de notas utliza el lenguaje de programación [Python](https://www.pytho
 
 ## Creación del ambiente Conda
 ```
-$ conda create -n presencia-join-fichas python=3
+$ conda create -n presencia-join-fichas python=3 jupyter
 $ conda activate presencia-join-fichas
 ```
 
